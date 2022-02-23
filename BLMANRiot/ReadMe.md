@@ -1,7 +1,6 @@
-## Nazi-communist World Domination Cabal
+## How to Start a BLMAN Riot
 
-1. [Hitler and Stalin Won WW2](./HitlerAndStalinWonWW2)
-1. [Boogieman Propaganda](./BoogiemanPropaganda)
+This chapter documents the tactics used by BLMAN to start riots in order to prevent riots.
 
 ## License
 
