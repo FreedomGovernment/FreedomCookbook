@@ -21,3 +21,7 @@ systematic racism continues and even prospers” (Olson 211).
 Duncan Kennedy, a Harvard law professor said:
 
 "[C]ritical legal studies has two aspects. It’s a scholarly literature and it has also been a network of people who were thinking of themselves as activists in law school politics. Initially, the scholarly literature was produced by the same people who were doing law school activism. Critical legal studies is not a theory. It’s basically this literature produced by this network of people. I think you can identify some themes of the literature, themes that have changed over time."
+
+## License
+
+Copyright 2022 © [Freedom Government](https://github.com/FreedomGovernment); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/FreedomGovernment/FreedomCookbook>.

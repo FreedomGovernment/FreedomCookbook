@@ -62,4 +62,4 @@ RequestFeature
 
 ## License
 
-Copyright 2022 © [Cale McCollough](https://cookingwithcale.org); all rights reserved.
+Copyright 2022 © [Freedom Government](https://github.com/FreedomGovernment); all rights reserved.
