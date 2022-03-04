@@ -1,5 +1,3 @@
-
-
 # The 25 Points of Hitler's Nazi Party
 
 1. We demand the union of all Germans in a Great Germany on the basis of the principle of self-determination of all peoples.
@@ -79,4 +77,3 @@ COMMON GOOD BEFORE INDIVIDUAL GOOD
 The formation of professional committees and of committees representing the several estates of the realm, to ensure that the laws promulgated by the central authority shall be carried out by the federal states.
 
 The leaders of the party undertake to promote the execution of the foregoing points at all costs, if necessary at the sacrifice of their own lives.
-
