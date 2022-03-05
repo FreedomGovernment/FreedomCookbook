@@ -77,3 +77,7 @@ COMMON GOOD BEFORE INDIVIDUAL GOOD
 The formation of professional committees and of committees representing the several estates of the realm, to ensure that the laws promulgated by the central authority shall be carried out by the federal states.
 
 The leaders of the party undertake to promote the execution of the foregoing points at all costs, if necessary at the sacrifice of their own lives.
+
+## License
+
+Copyright 2022 © [Freedom Government](https://github.com/FreedomGovernment); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/FreedomGovernment/FreedomCookbook>.
