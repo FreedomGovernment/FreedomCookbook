@@ -10,26 +10,6 @@ You can make a contribution to keep the show going and improve the content at co
 
 This video temporary and will be compressed into a too long didn't read AStartup timelapse vlog so subscribe to this channel for updates.
 
+## License
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Today we will be working on the McCollough vs Portland State University first-amendment clear and convincing evidence lawsuit.
-
-PSU kicked me out using a preponderance of teh evidence for telling off the vaccine police while they were enforcing the illagl vaccine mandate claiming that disrupte the health clinic staff.
-
-Since Supreme Court ruling Troxel v Graneville in 2001, you have a right to use of clear and convincing evidence to deprive you of your First Amdnment rights.
-
-I'm suing PSU to defend free speech and I'm live streaming the lawsuit worksessions and I'm hoping to find domations for an attorney, feedback and help with the lawsuit paperwork.
+Copyright 2022 © [Freedom Government](https://github.com/FreedomGovernment); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/FreedomGovernment/FreedomCookbook>.
