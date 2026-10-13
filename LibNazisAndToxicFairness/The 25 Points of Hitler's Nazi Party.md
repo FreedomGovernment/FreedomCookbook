@@ -1,3 +1,7 @@
+---
+title: "Freedom Cookbook — The 25 Points of Hitler's Nazi Party"
+description: "The 25 Points of the Nazi Party with the author's 'New America' translation parallel."
+---
 ### The 25 Points of Hitler's Nazi Party
 
 1. We demand the union of all Germans in a Great Germany on the basis of the principle of self-determination of all peoples.

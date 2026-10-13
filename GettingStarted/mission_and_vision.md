@@ -1,3 +1,7 @@
+---
+title: Freedom Cookbook — Mission and Vision (Getting Started)
+description: Mission and vision section of the Getting Started guide (DRY learning materials).
+---
 # [Freedom Cookbook](../)
 
 ## [Getting Started](./)
@@ -10,5 +14,5 @@ The mission of Freedom Cookbook is to help you create Don't Repeat Yourself (DRY
 
 ## License
 
-Copyright 2022 © [Freedom Government](https://github.com/FreedomGovernment); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/FreedomGovernment/FreedomCookbook>.
+Copyright [Freedom Government](https://github.com/FreedomGovernment); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/FreedomGovernment/FreedomCookbook>.
 
